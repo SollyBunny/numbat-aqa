@@ -1,0 +1,46 @@
+# Math (https://support.casio.com/global/en/calc/manual/fx-82MS_85MS_220PLUS_300MS_350MS_en/function_calculations/pi_base-e/index.html)
+let pi = 3.14159265358980
+let e = 2.71828182845904
+let τ = 2 * pi
+
+# Alias Maths
+let π = pi
+
+# Physics (https://filestore.aqa.org.uk/resources/physics/AQA-7408-SDB.PDF)
+let speed_of_light = 3.00e8 m s^-1
+let magnetic_constant = 4 * pi * 1e-7 H m^-1
+let electric_constant = 8.85e-12 F m^-1
+let planck_constant = 6.626e-34 J s
+let h_bar = planck_constant / (2 pi)
+let gravitational_constant = 6.67e-11 N m^2 kg^-2
+let avogadro_constant = 6.02e23 mol^-1
+let gas_constant = 8.31 J K^-1 mol^-1
+let boltzmann_constant = 1.38e-23 J K^-1
+let stefan_boltzmann_constant = 5.67e-8 W m^-2 K^-4
+let wien_constant = 2.90e-3 m K
+let gravity = 9.81 m s^-2
+
+# Alias Physics
+let c = speed_of_light
+let G = gravitational_constant
+let eps0 = electric_constant
+let ε0 = electric_constant
+let mu0 = magnetic_constant
+let µ0 = magnetic_constant
+let ℎ = planck_constant
+let ℏ = h_bar
+let N_A = avogadro_constant
+let stefan_constant = stefan_boltzmann_constant
+
+# Particles (https://filestore.aqa.org.uk/resources/physics/AQA-7408-SDB.PDF)
+let atomic_mass_constant = 1.661e-27 kg
+let electron_mass = 9.11e-31 kg
+let electron_charge = 1.60e-19 C
+let proton_mass = 1.673e-27 kg
+let neutron_mass = 1.675e-27 kg
+
+# Astronomy (https://filestore.aqa.org.uk/resources/physics/AQA-7408-SDB.PDF)
+let sun_mass = 1.99e30 kg
+let sun_radius = 6.96e8 m
+let earth_mass = 5.97e24 kg
+let earth_radius = 6.37e6 m
